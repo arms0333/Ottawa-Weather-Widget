@@ -16,6 +16,4 @@
  - This is centered on downtown ottawa so might be slightly different outside ottawa
 
 ![Alt][1]
-
-[1]: http://rethumb.com/assets/img/github.png
-[Weather Widget Link](http://arms0333.github.io/weather_widget/ "Ottawa weather Widget")
+[1]: http://rethumb.com/assets/img/github.png[Weather Widget Link](http://arms0333.github.io/weather_widget/ "Ottawa weather Widget")
