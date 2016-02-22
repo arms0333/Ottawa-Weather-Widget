@@ -12,3 +12,4 @@
  - CSS is slightly more complex due to the ability to resize the widget but basically its just colours and simple sizing
  - Javascript is where the majority of the code is found
   *free beer
+
