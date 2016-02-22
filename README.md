@@ -18,6 +18,5 @@
  - This is centered on downtown ottawa so might be slightly different outside ottawa
 
 
-![Alt][1]
 
 [1]: http://rethumb.com/assets/img/github.png "Title"
