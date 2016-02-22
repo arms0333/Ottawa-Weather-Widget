@@ -15,6 +15,7 @@
  - It only shows on 12 hours at a time
  - This is centered on downtown ottawa so might be slightly different outside ottawa
 
+____________________
 
 [Weather Widget Link](http://arms0333.github.io/weather_widget/ "Ottawa weather Widget")
 [![alt text](http://rethumb.com/assets/img/github.png)]
