@@ -12,3 +12,7 @@
  - CSS is slightly more complex due to the ability to resize the widget but basically its just colours and simple sizing
  - Javascript is where the majority of the code is found and within a function is the website that provides the API key
 
+###How to use the code
+ - The code is pretty straight forward, by just going to the site it is shown right away
+ - It only shows on 12 hours at a time
+ - This is centered on downtown ottawa so might be slightly different outside ottawa
