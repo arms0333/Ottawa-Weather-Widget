@@ -18,4 +18,4 @@
  - This is centered on downtown ottawa so might be slightly different outside ottawa
 
 	
-![Alt](http://rethumb.com/assets/img/github.png "Title")
+[Alt](http://rethumb.com/assets/img/github.png "Title")
