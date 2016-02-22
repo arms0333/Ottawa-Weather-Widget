@@ -10,6 +10,5 @@
  - the Image folder will contain all the icons needed for visual effects beside each forecast row
  - HTML is just basic divs and headings to contain information
  - CSS is slightly more complex due to the ability to resize the widget but basically its just colours and simple sizing
- - Javascript is where the majority of the code is found
-  *free beer
+ - Javascript is where the majority of the code is found and within a function is the website that provides the API key
 
