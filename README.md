@@ -17,5 +17,6 @@
 
 
 [Weather Widget Link](http://arms0333.github.io/weather_widget/ "Ottawa weather Widget")
-![Alt][1]
-[1]: http://rethumb.com/assets/img/github.png
+[![alt text](/wp-smaller.png)]
+(http://rethumb.com/assets/img/github.png "Title")
+
