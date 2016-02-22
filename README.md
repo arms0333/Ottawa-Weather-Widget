@@ -16,3 +16,6 @@
  - The code is pretty straight forward, by just going to the site it is shown right away
  - It only shows on 12 hours at a time
  - This is centered on downtown ottawa so might be slightly different outside ottawa
+
+	
+Logo: ![Alt](http://rethumb.com/assets/img/github.png "Title")
