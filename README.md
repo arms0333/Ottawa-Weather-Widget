@@ -17,6 +17,6 @@
  - It only shows on 12 hours at a time
  - This is centered on downtown ottawa so might be slightly different outside ottawa
 
-![]
+![Alt][1]
 
-[1]: http://rethumb.com/assets/img/github.png "Title"
+[1]: http://rethumb.com/assets/img/github.png
